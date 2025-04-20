@@ -1,0 +1,161 @@
+{"level":"warn","message":"[UYARI] trackAdd.js event dosyası uygun bir biçimde dışa aktarılmamış.","service":"voltacik-music","timestamp":"2025-04-21 00:26:36"}
+{"level":"warn","message":"[UYARI] trackRemove.js event dosyası uygun bir biçimde dışa aktarılmamış.","service":"voltacik-music","timestamp":"2025-04-21 00:26:36"}
+{"level":"info","message":"Discofy#0850 olarak giriş yapıldı!","service":"voltacik-music","timestamp":"2025-04-21 00:26:37"}
+{"level":"info","message":"[✓] clear.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:26:37"}
+{"level":"info","message":"[✓] filter.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:26:37"}
+{"level":"info","message":"[✓] loop.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:26:37"}
+{"level":"info","message":"[✓] lyrics.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:26:38"}
+{"level":"info","message":"[✓] move.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:26:38"}
+{"level":"info","message":"[✓] nowplaying.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:26:38"}
+{"level":"info","message":"[✓] play.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:26:38"}
+{"level":"info","message":"[✓] queue.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:26:38"}
+{"level":"info","message":"[✓] remove.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:26:38"}
+{"level":"info","message":"[✓] search.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:26:38"}
+{"level":"info","message":"[✓] shuffle.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:26:38"}
+{"level":"info","message":"[✓] skip.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:26:38"}
+{"level":"info","message":"[✓] stats.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:26:38"}
+{"level":"info","message":"[✓] stop.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:26:38"}
+{"level":"info","message":"[✓] volume.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:26:38"}
+{"level":"info","message":"[✓] Tüm komutlar başarıyla Discord'a yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:26:38"}
+{"level":"info","message":"[✓] Tüm komutlar başarıyla Discord'a yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:26:38"}
+{"level":"info","message":"Discofy#0850 olarak giriş yapıldı!","service":"voltacik-music","timestamp":"2025-04-21 00:27:24"}
+{"level":"info","message":"[✓] clear.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:27:24"}
+{"level":"info","message":"[✓] filter.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:27:24"}
+{"level":"info","message":"[✓] loop.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:27:24"}
+{"level":"info","message":"[✓] lyrics.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:27:24"}
+{"level":"info","message":"[✓] move.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:27:24"}
+{"level":"info","message":"[✓] nowplaying.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:27:24"}
+{"level":"info","message":"[✓] play.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:27:24"}
+{"level":"info","message":"[✓] queue.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:27:24"}
+{"level":"info","message":"[✓] remove.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:27:24"}
+{"level":"info","message":"[✓] search.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:27:24"}
+{"level":"info","message":"[✓] shuffle.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:27:24"}
+{"level":"info","message":"[✓] skip.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:27:24"}
+{"level":"info","message":"[✓] stats.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:27:24"}
+{"level":"info","message":"[✓] stop.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:27:24"}
+{"level":"info","message":"[✓] volume.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:27:25"}
+{"level":"info","message":"[✓] Tüm komutlar başarıyla Discord'a yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:27:25"}
+{"level":"info","message":"[✓] Tüm komutlar başarıyla Discord'a yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:27:25"}
+{"level":"info","message":"jatevolta komutu kullandı: /play","service":"voltacik-music","timestamp":"2025-04-21 00:27:34"}
+{"level":"info","message":"jatevolta komutu kullandı: /nowplaying","service":"voltacik-music","timestamp":"2025-04-21 00:27:44"}
+{"level":"info","message":"Discofy#0850 olarak giriş yapıldı!","service":"voltacik-music","timestamp":"2025-04-21 00:29:04"}
+{"level":"info","message":"[✓] clear.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:29:04"}
+{"level":"info","message":"[✓] filter.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:29:04"}
+{"level":"info","message":"[✓] loop.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:29:04"}
+{"level":"info","message":"[✓] lyrics.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:29:04"}
+{"level":"info","message":"[✓] move.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:29:04"}
+{"level":"info","message":"[✓] nowplaying.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:29:04"}
+{"level":"info","message":"[✓] play.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:29:04"}
+{"level":"info","message":"[✓] queue.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:29:04"}
+{"level":"info","message":"[✓] remove.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:29:04"}
+{"level":"info","message":"[✓] search.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:29:04"}
+{"level":"info","message":"[✓] shuffle.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:29:04"}
+{"level":"info","message":"[✓] skip.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:29:04"}
+{"level":"info","message":"[✓] stats.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:29:04"}
+{"level":"info","message":"[✓] stop.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:29:04"}
+{"level":"info","message":"[✓] volume.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:29:04"}
+{"level":"info","message":"[✓] Tüm komutlar başarıyla Discord'a yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:29:05"}
+{"level":"info","message":"[✓] Tüm komutlar başarıyla Discord'a yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:29:05"}
+{"level":"info","message":"jatevolta komutu kullandı: /play","service":"voltacik-music","timestamp":"2025-04-21 00:29:10"}
+{"level":"info","message":"jatevolta komutu kullandı: /nowplaying","service":"voltacik-music","timestamp":"2025-04-21 00:29:27"}
+{"level":"info","message":"Discofy#0850 olarak giriş yapıldı!","service":"voltacik-music","timestamp":"2025-04-21 00:33:10"}
+{"level":"info","message":"[✓] clear.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:33:10"}
+{"level":"info","message":"[✓] filter.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:33:10"}
+{"level":"info","message":"[✓] loop.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:33:10"}
+{"level":"info","message":"[✓] lyrics.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:33:11"}
+{"level":"info","message":"[✓] move.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:33:11"}
+{"level":"info","message":"[✓] nowplaying.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:33:11"}
+{"level":"info","message":"[✓] play.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:33:11"}
+{"level":"info","message":"[✓] queue.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:33:11"}
+{"level":"info","message":"[✓] remove.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:33:11"}
+{"level":"info","message":"[✓] search.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:33:11"}
+{"level":"info","message":"[✓] shuffle.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:33:11"}
+{"level":"info","message":"[✓] skip.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:33:11"}
+{"level":"info","message":"[✓] stats.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:33:11"}
+{"level":"info","message":"[✓] stop.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:33:11"}
+{"level":"info","message":"[✓] volume.js komutu yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:33:11"}
+{"level":"info","message":"[✓] Tüm komutlar başarıyla Discord'a yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:33:11"}
+{"level":"info","message":"[✓] Tüm komutlar başarıyla Discord'a yüklendi.","service":"voltacik-music","timestamp":"2025-04-21 00:33:11"}
+{"level":"info","message":"jatevolta komutu kullandı: /play","service":"voltacik-music","timestamp":"2025-04-21 00:33:47"}
+[21.04.2025 00:49:20] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\commands\shuffle.js dosyasındaki developer footer geri yüklendi.
+[21.04.2025 00:49:20] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\commands\volume.js dosyasındaki developer footer geri yüklendi.
+[21.04.2025 00:49:20] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\events\error.js dosyasındaki developer footer geri yüklendi.
+[21.04.2025 00:49:22] [INFO]: Discofy#0850 olarak giriş yapıldı!
+[21.04.2025 00:49:22] [INFO]: [✓] clear.js komutu yüklendi.
+[21.04.2025 00:49:22] [INFO]: [✓] filter.js komutu yüklendi.
+[21.04.2025 00:49:22] [INFO]: [✓] loop.js komutu yüklendi.
+[21.04.2025 00:49:22] [INFO]: [✓] lyrics.js komutu yüklendi.
+[21.04.2025 00:49:22] [INFO]: [✓] move.js komutu yüklendi.
+[21.04.2025 00:49:22] [INFO]: [✓] nowplaying.js komutu yüklendi.
+[21.04.2025 00:49:22] [INFO]: [✓] play.js komutu yüklendi.
+[21.04.2025 00:49:22] [INFO]: [✓] queue.js komutu yüklendi.
+[21.04.2025 00:49:22] [INFO]: [✓] remove.js komutu yüklendi.
+[21.04.2025 00:49:22] [INFO]: [✓] search.js komutu yüklendi.
+[21.04.2025 00:49:22] [INFO]: [✓] shuffle.js komutu yüklendi.
+[21.04.2025 00:49:22] [INFO]: [✓] skip.js komutu yüklendi.
+[21.04.2025 00:49:22] [INFO]: [✓] stats.js komutu yüklendi.
+[21.04.2025 00:49:22] [INFO]: [✓] stop.js komutu yüklendi.
+[21.04.2025 00:49:22] [INFO]: [✓] volume.js komutu yüklendi.
+[21.04.2025 00:49:22] [INFO]: [✓] Tüm komutlar başarıyla Discord'a yüklendi.
+[21.04.2025 00:49:22] [INFO]: [✓] Tüm komutlar başarıyla Discord'a yüklendi.
+[21.04.2025 00:49:36] [INFO]: jatevolta komutu kullandı: /play
+[21.04.2025 00:51:22] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\commands\shuffle.js dosyasındaki developer footer geri yüklendi.
+[21.04.2025 00:51:22] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\commands\volume.js dosyasındaki developer footer geri yüklendi.
+[21.04.2025 00:51:22] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\events\error.js dosyasındaki developer footer geri yüklendi.
+[21.04.2025 00:51:24] [INFO]: Discofy#0850 olarak giriş yapıldı!
+[21.04.2025 00:51:24] [INFO]: [✓] clear.js komutu yüklendi.
+[21.04.2025 00:51:24] [INFO]: [✓] filter.js komutu yüklendi.
+[21.04.2025 00:51:24] [INFO]: [✓] loop.js komutu yüklendi.
+[21.04.2025 00:51:24] [INFO]: [✓] lyrics.js komutu yüklendi.
+[21.04.2025 00:51:24] [INFO]: [✓] move.js komutu yüklendi.
+[21.04.2025 00:51:24] [INFO]: [✓] nowplaying.js komutu yüklendi.
+[21.04.2025 00:51:24] [INFO]: [✓] play.js komutu yüklendi.
+[21.04.2025 00:51:24] [INFO]: [✓] queue.js komutu yüklendi.
+[21.04.2025 00:51:24] [INFO]: [✓] remove.js komutu yüklendi.
+[21.04.2025 00:51:24] [INFO]: [✓] search.js komutu yüklendi.
+[21.04.2025 00:51:24] [INFO]: [✓] shuffle.js komutu yüklendi.
+[21.04.2025 00:51:24] [INFO]: [✓] skip.js komutu yüklendi.
+[21.04.2025 00:51:24] [INFO]: [✓] stats.js komutu yüklendi.
+[21.04.2025 00:51:24] [INFO]: [✓] stop.js komutu yüklendi.
+[21.04.2025 00:51:24] [INFO]: [✓] volume.js komutu yüklendi.
+[21.04.2025 00:51:25] [INFO]: [✓] Tüm komutlar başarıyla Discord'a yüklendi.
+[21.04.2025 00:51:25] [INFO]: [✓] Tüm komutlar başarıyla Discord'a yüklendi.
+[21.04.2025 00:51:34] [INFO]: jatevolta komutu kullandı: /play
+[21.04.2025 00:53:15] [INFO]: jatevolta komutu kullandı: /nowplaying
+[21.04.2025 00:54:41] [INFO]: jatevolta komutu kullandı: /play
+[21.04.2025 00:58:34] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\commands\shuffle.js dosyasındaki developer footer geri yüklendi.
+[21.04.2025 00:58:34] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\commands\volume.js dosyasındaki developer footer geri yüklendi.
+[21.04.2025 00:58:34] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\events\error.js dosyasındaki developer footer geri yüklendi.
+[21.04.2025 00:58:37] [INFO]: Discofy#0850 olarak giriş yapıldı!
+[21.04.2025 00:58:37] [INFO]: [✓] clear.js komutu yüklendi.
+[21.04.2025 00:58:37] [INFO]: [✓] filter.js komutu yüklendi.
+[21.04.2025 00:58:37] [INFO]: [✓] loop.js komutu yüklendi.
+[21.04.2025 00:58:37] [INFO]: [✓] lyrics.js komutu yüklendi.
+[21.04.2025 00:58:37] [INFO]: [✓] move.js komutu yüklendi.
+[21.04.2025 00:58:38] [INFO]: [✓] nowplaying.js komutu yüklendi.
+[21.04.2025 00:58:38] [INFO]: [✓] play.js komutu yüklendi.
+[21.04.2025 00:58:38] [INFO]: [✓] queue.js komutu yüklendi.
+[21.04.2025 00:58:38] [INFO]: [✓] remove.js komutu yüklendi.
+[21.04.2025 00:58:38] [INFO]: [✓] search.js komutu yüklendi.
+[21.04.2025 00:58:38] [INFO]: [✓] shuffle.js komutu yüklendi.
+[21.04.2025 00:58:38] [INFO]: [✓] skip.js komutu yüklendi.
+[21.04.2025 00:58:38] [INFO]: [✓] stats.js komutu yüklendi.
+[21.04.2025 00:58:38] [INFO]: [✓] stop.js komutu yüklendi.
+[21.04.2025 00:58:38] [INFO]: [✓] volume.js komutu yüklendi.
+[21.04.2025 00:58:38] [INFO]: [✓] Tüm komutlar başarıyla Discord'a yüklendi.
+[21.04.2025 00:58:38] [INFO]: [✓] Tüm komutlar başarıyla Discord'a yüklendi.
+[21.04.2025 00:59:49] [INFO]: jatevolta komutu kullandı: /play
+[21.04.2025 01:03:34] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\commands\shuffle.js dosyasındaki developer footer geri yüklendi.
+[21.04.2025 01:03:34] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\commands\volume.js dosyasındaki developer footer geri yüklendi.
+[21.04.2025 01:03:34] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\events\error.js dosyasındaki developer footer geri yüklendi.
+[21.04.2025 01:03:50] [INFO]: jatevolta komutu kullandı: /play
+[21.04.2025 01:04:01] [INFO]: jatevolta komutu kullandı: /play
+[21.04.2025 01:04:04] [INFO]: jatevolta komutu kullandı: /skip
+[21.04.2025 01:04:04] [ERROR]: Komut çalıştırılırken hata (skip): Received one or more errors
+[21.04.2025 01:06:33] [INFO]: jatevolta komutu kullandı: /volume
+[21.04.2025 01:08:34] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\commands\shuffle.js dosyasındaki developer footer geri yüklendi.
+[21.04.2025 01:08:34] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\commands\volume.js dosyasındaki developer footer geri yüklendi.
+[21.04.2025 01:08:34] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\events\error.js dosyasındaki developer footer geri yüklendi.
+[21.04.2025 01:13:34] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\commands\shuffle.js dosyasındaki developer footer geri yüklendi.
+[21.04.2025 01:13:34] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\commands\volume.js dosyasındaki developer footer geri yüklendi.
+[21.04.2025 01:13:34] [WARN]: [GÜVENLİK] C:\Users\UserR\Desktop\Voltacik Müsic\events\error.js dosyasındaki developer footer geri yüklendi.
